@@ -14,7 +14,7 @@ async function getTokenBalance(tokenContractAddress, ethereumAddress) {
     return balance;
 }
 
-// Example usage:
+
 const tokenContractAddress = "0x902c"; // Address of the ERC20 token contract
 const ethereumAddress = "0x300"; // Ethereum address or wallet address to check balance for
 
